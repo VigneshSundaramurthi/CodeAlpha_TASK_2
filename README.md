@@ -2,7 +2,8 @@ Sales Prediction using Python
 
 Questions:
 
-● Predict future sales based on factors like advertising spend, target segment and platform. 
+● Predict future sales based on factors like advertising spend, target segment and platform.
+
 ● Prepare data through cleaning, transformation and feature selection. 
 
 ● Use regression or time series models to forecast sales. 

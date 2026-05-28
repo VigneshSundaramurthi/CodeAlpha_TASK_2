@@ -12,7 +12,11 @@ Questions:
 
 ● Deliver actionable insights for business marketing strategies
 
+
+
 Business Insights
+
+
 
 ● TV and Radio advertisements have a strong positive impact on sales.
 
